@@ -11,6 +11,7 @@ const whitelistExact = [
   'bcc',
   'subject',
   'text',
+  'template',
   'html',
   'attachment',
   'inline',
